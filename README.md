@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-out-the-sum-of-the-square-of-the-first-10-natural-number
